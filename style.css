@@ -1,0 +1,12 @@
+h1 {
+    color:deepskyblue;
+     text-align:center;
+}
+p {background-color:dodgerblue;
+}
+.container{
+    margin:0 auto;
+    padding:10px;
+    height:50px;
+    width:480px;
+}
