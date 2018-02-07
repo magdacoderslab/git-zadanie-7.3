@@ -1,12 +1,19 @@
 h1 {
     color:deepskyblue;
      text-align:center;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 8px orange;
+    text-transform:uppercase;
 }
-p {background-color:dodgerblue;
+p {
+    background-color:dodgerblue;
+    font-size:20px;
+    padding: 10px;
 }
 .container{
     margin:0 auto;
-    padding:10px;
-    height:50px;
-    width:480px;
+    padding:2px;
+    height:100px;
+    width:600px;
+    text-align:center;
 }
